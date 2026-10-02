@@ -43,7 +43,6 @@ public class CalculoSalario {
             pagoExtra = horasExtra * pagoPorHora * 2;
             salarioTotal = pagoNormal + pagoExtra;
         }
-
         // Mostrar resultados
         System.out.println();
         System.out.println("=== RESULTADO ===");
@@ -54,7 +53,6 @@ public class CalculoSalario {
         System.out.println("Pago normal: $" + pagoNormal);
         System.out.println("Pago por horas extra: $" + pagoExtra);
         System.out.println("Salario total: $" + salarioTotal);
-
         sc.close();
     }
 }
