@@ -1,4 +1,3 @@
-/*import java.util.ArrayList;
 import java.util.Scanner;
 
 public class CentroMedico {
@@ -117,4 +116,3 @@ public class CentroMedico {
         System.out.println("==========================================");
         scanner.close();
     }
-}*/

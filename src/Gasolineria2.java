@@ -1,5 +1,3 @@
-/*import java.util.Scanner;
-
 public class Gasolyinera2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -108,4 +106,3 @@ public class Gasolyinera2 {
 
         scanner.close();
     }
-}*/
